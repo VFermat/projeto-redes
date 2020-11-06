@@ -1,4 +1,4 @@
-last_name, first_name,player_id,year,pa,bip,ba,est_ba,est_ba_minus_ba_diff,slg,est_slg,est_slg_minus_slg_diff,woba,est_woba,est_woba_minus_woba_diff,era,xera,era_minus_xera_diff
+last_name,first_name,player_id,year,pa,bip,ba,est_ba,est_ba_minus_ba_diff,slg,est_slg,est_slg_minus_slg_diff,woba,est_woba,est_woba_minus_woba_diff,era,xera,era_minus_xera_diff
 Porcello, Rick,519144,2017,885,650,.286,.272,.014,.498,.483,.015,.348,.343,.005,4.65,4.92,-0.27
 Santana, Ervin,429722,2017,864,627,.225,.236,-.011,.392,.401,-.009,.291,.305,-.014,3.28,3.79,-0.51
 Martinez, Carlos,593372,2017,858,561,.232,.224,.008,.391,.359,.032,.299,.291,.008,3.64,3.43,0.21

@@ -1,4 +1,4 @@
-last_name, first_name,player_id,year,pa,bip,ba,est_ba,est_ba_minus_ba_diff,slg,est_slg,est_slg_minus_slg_diff,woba,est_woba,est_woba_minus_woba_diff,era,xera,era_minus_xera_diff
+last_name,first_name,player_id,year,pa,bip,ba,est_ba,est_ba_minus_ba_diff,slg,est_slg,est_slg_minus_slg_diff,woba,est_woba,est_woba_minus_woba_diff,era,xera,era_minus_xera_diff
 Bauer, Trevor,545333,2019,911,557,.230,.228,.002,.429,.410,.019,.316,.315,.001,4.48,4.21,0.27
 Lynn, Lance,458681,2019,875,562,.243,.231,.012,.390,.384,.006,.294,.292,.002,3.67,3.57,0.10
 Gonzales, Marco,594835,2019,866,657,.264,.257,.007,.422,.415,.007,.311,.315,-.004,3.99,4.21,-0.22

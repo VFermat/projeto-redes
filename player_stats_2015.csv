@@ -1,4 +1,4 @@
-last_name, first_name,player_id,year,pa,bip,ba,est_ba,est_ba_minus_ba_diff,slg,est_slg,est_slg_minus_slg_diff,woba,est_woba,est_woba_minus_woba_diff,era,xera,era_minus_xera_diff
+last_name,first_name,player_id,year,pa,bip,ba,est_ba,est_ba_minus_ba_diff,slg,est_slg,est_slg_minus_slg_diff,woba,est_woba,est_woba_minus_woba_diff,era,xera,era_minus_xera_diff
 Keuchel, Dallas,572971,2015,911,642,.217,.230,-.013,.314,.325,-.011,.254,.272,-.018,2.48,2.88,-0.40
 Samardzija, Jeff,502188,2015,910,686,.273,.270,.003,.446,.427,.019,.330,.332,-.002,4.96,4.42,0.54
 Scherzer, Max,453286,2015,899,584,.208,.207,.001,.358,.348,.010,.259,.260,-.001,2.79,2.63,0.16
